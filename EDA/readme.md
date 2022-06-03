@@ -1,3 +1,7 @@
+# Files
+
+`EDA Target` has an exploration of the target variables `rejected` and `patient_pay`. `EDA Generic & Branded Effect on Rejected and Patient Pay ` shows the effect of whether or not a drug is generic vs branded affects `rejected` and `patient_pay`. `EDA Rejection and Diagnosis` shows how diagnosis affects rejection. 
+
 # Erdös Bootcamp CoverMyMeds Project Statement
 
 In this challenge we are presenting you with a set of (SIMULATED!) pharmacy claims data-billing claims that were run from a pharmacy to a third-party payer who covers some portion of the prescription drug price on behalf of a patient. Most commonly these third-party payers are the patient insurance plans, but other third parties such as manufacturer discount drug programs can also be run in the same manner as insurance claims to reimburse the pharmacy some portion of the cost. Ultimately, as part of the claim process the amount that the payer reimburses the pharmacy and copayments required of the patient are set by complicated negotiations and contracts between the drug manufacturer, the payer, and the pharmacy. Those negotiations also often cover decisions on what drug claims will ultimately be approved (preferred / non-preferred / non-covered formulary status of each drug) based on the relative discounts that the payer can secure relative to other drugs in the same class that may treat the similar types of medical conditions.
