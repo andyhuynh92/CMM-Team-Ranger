@@ -1,3 +1,7 @@
-# CMM-Team-Ranger
+#CoverMyMeds Project
 
-We are working on the CoverMyMeds project, team name Ranger.
+This repository contains Jupyter notebooks exploring artificial pharmaceutical data(not included) provided by CoverMyMeds. The data includes date, pharmacy, diagnosis, drug, and three indicators of insurance. We are also provided whether or not the insurance rejected covering the drug, and if the insurance did accept the drug, how much the patient paid in copay. These last two features are the features we want to predict.
+
+In the EDA folder, we have several notebooks understanding the relationship of the features to the target.
+
+In the models folder, we explored different models to predict the target.
