@@ -1,5 +1,6 @@
 # Files
 
+- `Unique Values` gives all of the unique values for all of the features and the counts of the unique values for each feature.
 - `EDA Target` has an exploration of the target variables `rejected` and `patient_pay`. 
 - `EDA Generic & Branded Effect on Rejected and Patient Pay ` shows the effect of whether or not a drug is generic vs branded affects `rejected` and `patient_pay`. 
 - `EDA Rejection and Diagnosis` shows how diagnosis affects rejection. 
